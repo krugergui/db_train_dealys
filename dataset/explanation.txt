@@ -1,0 +1,14 @@
+
+    TAA: Alerts (@@ separated)
+    TA: Delay hour (before was in minutes) need to be compared with TIT column
+    TIN: Train Model
+    TIR: Route
+    TSI: Station ID
+    TIM: Direction departura/arrival
+    TIL: Request with parameters
+    TIRE: Destination
+    TIP: Platform number
+    TIT: Departure hour
+    TID: Date
+    TSC: Station Name and ID
+    TAc: delay in minutes ( TA - TIT )
