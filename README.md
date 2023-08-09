@@ -4,6 +4,6 @@ This project visualize and analyse the data from the delays in the train network
 
 The parts of this project are:
 
-1. [Data Cleaning](https://github.com/krugergui/db_train_dealys/blob/main/data_cleaning.ipynb) - in this repository
+1. [Data Cleaning](https://nbviewer.org/github/krugergui/db_train_dealys/blob/main/data_cleaning.ipynb) - in this repository
 2. [Data analysis and visualization](https://public.tableau.com/app/profile/kruger6858/viz/DelaysDBahn2019_06/Summaryandmap) - in Tableau
-3. [Statistical analysis](https://github.com/krugergui/db_train_dealys/blob/main/data_analysis.ipynb) - in this repository
+3. [Statistical analysis](https://nbviewer.org/github/krugergui/db_train_dealys/blob/main/data_analysis.ipynb) - Source code in this repository, Jupyter notebook visualization in nbviewer
